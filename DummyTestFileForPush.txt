@@ -1,0 +1,5 @@
+This is just a dummy file to test the Git Push Trigger in Jenkins
+
+To verify the Jenkins setup really works,  add some random junk line in this file... Commit and push.
+
+The push should trigger the Jenkins rebuild in the candidate's test environment.
